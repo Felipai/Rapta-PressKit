@@ -1,7 +1,8 @@
 # Factsheet - RAPTA
 
 **Developer:** Nullax (São Paulo, Brazil)
-**Release Date:** [INSERT DATE]
+**Status:** Available now in Early Access
+**Full Release:** May/June 2026
 **Platforms:** PC (Steam)
 **Genre:** Suspense / Hacking / Simulation
 **Official Website:** https://nullax.web.app/rapta
@@ -11,7 +12,7 @@
 ---
 
 ### Short Description
-In RAPTA, you have 15 real-time minutes to save your sister from a kidnapping. Using only a hacking terminal, you must navigate the digital underworld to secure $20,000 before the trail leads back to you.
+In RAPTA, the clock is ticking: you have just 15 minutes to save your sister from a kidnapping. Using only a hacking terminal, you must navigate the digital underworld to secure $20,000 before time runs out.
 
 ### Long Description
 Your sister has been taken. The price for her life is $20,000 and time is your only real resource. RAPTA puts the player in the chair of a hacker under extreme pressure. Through the *Silicon Sneaky OS*, you must explore hidden connections, perform shady transfers, and make quick moral decisions.
@@ -22,7 +23,7 @@ The trail you leave is the price she pays. Every command typed increases your ex
 
 ### Key Features
 *   **Immersive Terminal Interface:** Operate the *Silicon Sneaky* system, a command-line interface that makes you feel like a real hacker.
-*   **Real-Time Narrative:** The game lasts 15 real minutes. The tension is constant and every second counts.
+*   **Real-Time Narrative:** The clock never stops. Tension is constant, and every lost second could be the last.
 *   **Branched Skill Tree:** Unlock new abilities and adapt your strategy with each run.
 *   **Minimalist 2-Color Aesthetic:** High-contrast, immediately recognizable pixel art visuals.
 *   **Dynamic Soundtrack:** Music that evolves as pressure and time increase.

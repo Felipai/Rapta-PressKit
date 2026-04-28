@@ -1,7 +1,8 @@
 # Ficha Técnica - RAPTA
 
 **Desenvolvedor:** Nullax (São Paulo, Brasil)
-**Data de Lançamento:** [INSERIR DATA]
+**Status:** Já disponível em Acesso Antecipado
+**Lançamento da Versão Completa:** Maio/Junho de 2026
 **Plataformas:** PC (Steam)
 **Gênero:** Suspense / Hacking / Simulação
 **Site Oficial:** https://nullax.web.app/rapta
@@ -11,7 +12,7 @@
 ---
 
 ### Descrição Curta
-Em RAPTA, você tem 15 minutos reais para salvar sua irmã de um sequestro. Usando apenas um terminal de hacking, você deve navegar pelo submundo digital para conseguir $20.000 antes que o rastro leve até você.
+Em RAPTA, o relógio não para: você tem apenas 15 minutos para salvar sua irmã de um sequestro. Usando apenas um terminal de hacking, você deve navegar pelo submundo digital para conseguir $20.000 antes que o tempo se esgote.
 
 ### Descrição Longa
 Sua irmã foi levada. O preço pela vida dela é $20.000 e o tempo é seu único recurso real. RAPTA coloca o jogador na cadeira de um hacker sob pressão extrema. Através do sistema *Silicon Sneaky OS*, você deve explorar conexões ocultas, realizar transferências escusas e tomar decisões morais rápidas. 
@@ -22,7 +23,7 @@ O rastro que você deixa é o preço que ela paga. Cada comando digitado aumenta
 
 ### Características Principais
 *   **Interface de Terminal Imersiva:** Opere o sistema *Silicon Sneaky*, uma interface command-line que faz você se sentir um hacker real.
-*   **Narrativa em Tempo Real:** O jogo dura 15 minutos reais. A tensão é constante e cada segundo conta.
+*   **Narrativa em Tempo Real:** O relógio não para. A tensão é constante e cada segundo perdido pode ser o último.
 *   **Árvore de Habilidades Ramificada:** Desbloqueie novas habilidades e adapte sua estratégia a cada run.
 *   **Estética Minimalista de 2 Cores:** Visual pixel art de alto contraste e imediatamente reconhecível.
 *   **Trilha Sonora Dinâmica:** Música que evolui conforme a pressão e o tempo aumentam.
