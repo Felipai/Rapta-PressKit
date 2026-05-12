@@ -6,8 +6,8 @@
 **Platforms:** PC (Steam)
 **Genre:** Suspense / Hacking / Simulation
 **Official Website:** https://nullax.web.app/rapta
-**Discord:** https://discord.gg/V3RfupkGtc
-**Press Contact:** [YOUR_EMAIL_HERE]
+**Discord:** https://discord.gg/NeMCRzHJNm
+**Press Contact:** contato@nullaxstudios.com
 
 ---
 
